@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DatAKAjezz
+- 👋 Hi, I’m @DatAKAdoon
 - 👀 I’m interested in Comepetitive Programming
 - 🌱 I’m currently persuing Software Engineer degree
 - 💞️ I’m looking to collaborate on (idk might be in the near future)
